@@ -1,4 +1,11 @@
 # Implicit-ContentAndroid
+
+This app demonstrates how to start an activity from another activity using implicit intents (viz. ACTION_VIEW and ACTION_DIAL). This android app provides the facility to launch any web URL, and ring any phone number. Few important features of the application are:
+
+* Auto inserts http:// or https:// in front of the user input URL (if missing),
+* Provides the user an interface to choose a browser, if multiple browsers are installed on the system and none of them is set as the default browser,
+* Provides the user a number pad instead of a generic keyboard to enter the phone number.
+
 ![image](https://user-images.githubusercontent.com/31361652/37191469-b8e05df6-2314-11e8-90da-88b632e80e35.png)
 
 ![image](https://user-images.githubusercontent.com/31361652/37191476-c166f732-2314-11e8-9787-6d4ba90b9ca2.png)
